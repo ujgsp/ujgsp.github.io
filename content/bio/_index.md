@@ -1,15 +1,12 @@
 {
-  "title": "Nama Kamu",
+  "title": "Ujang Sopiyan",
   "date": "2025-01-04T20:35:41+07:00",
   "draft": false,
-  "job": "Web Developer"
+  "job": "Software Engineer"
 }
 
-Tentang Saya:\
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident voluptates cumque ad a soluta, necessitatibus ut eligendi quia nisi assumenda nemo amet corrupti pariatur, beatae eum quo harum saepe eveniet?
+Saya seorang Software Engineer baru yang memiliki 3 tahun pengalaman langsung dalam pengembangan Web. Saya telah mengerjakan banyak proyek dari konsep hingga penyelesaian.
 
-Kontribusi:\
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident voluptates cumque ad a soluta, necessitatibus ut eligendi quia nisi assumenda nemo amet corrupti pariatur, beatae eum quo harum saepe eveniet?
+Saya percaya bahwa inovasi tercipta saat kita berani keluar dari zona nyaman. Karena itu, saya terus belajar dan berkontribusi pada proyek-proyek yang berdampak, khususnya di bidang teknologi berbasis Web. Saat ini, saya juga berperan sebagai kontributor di [OpenDesa](https://github.com/OpenSID), membantu mengembangkan sistem yang bermanfaat bagi Desa untuk **GO Digital**.
 
-Tentang Website Ini:\
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident voluptates cumque ad a soluta, necessitatibus ut eligendi quia nisi assumenda nemo amet corrupti pariatur, beatae eum quo harum saepe eveniet?
+Dengan latar belakang ini, saya berkomitmen untuk memberikan nilai tambah melalui keterampilan dan pengalaman saya, sambil terus berkembang di dunia pengembangan perangkat lunak. Jika ada pertanyaan atau kerja sama yang ingin didiskusikan, jangan ragu untuk menghubungi saya. Saya akan senang membantu 😉

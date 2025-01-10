@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Your Website</title>
+    <title>Projects on Ujang Sopiyan</title>
     <link>https://ujgsp.github.io/projects/</link>
-    <description>Recent content in Projects on Your Website</description>
+    <description>Recent content in Projects on Ujang Sopiyan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jan 2025 22:28:16 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 00:14:07 +0700</lastBuildDate>
     <atom:link href="https://ujgsp.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aplikasi Routine and Preventive Maintenance</title>
+      <link>https://ujgsp.github.io/projects/aplikasi-routine-and-preventive-maintenance/</link>
+      <pubDate>Fri, 10 Jan 2025 00:14:07 +0700</pubDate>
+      <guid>https://ujgsp.github.io/projects/aplikasi-routine-and-preventive-maintenance/</guid>
+      <description>&lt;h3 id=&#34;aplikasi-routine-and-preventive-maintenance&#34;&gt;Aplikasi Routine and Preventive Maintenance&lt;/h3&gt;&#xA;&lt;p&gt;Aplikasi Routine and Preventive Maintenance untuk monitoring pekerjaan baik itu pergantian aset atau pemeliharaan aset&lt;/p&gt;&#xA;&lt;h3 id=&#34;fitur-utama&#34;&gt;Fitur Utama&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Manajemen Konten:&lt;/strong&gt; Tambahkan, edit, dan hapus dengan mudah.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Responsif:&lt;/strong&gt; Desain ramah mobile untuk semua jenis perangkat.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;SEO Friendly:&lt;/strong&gt; Dilengkapi fitur SEO bawaan.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Teknologi yang Digunakan:&lt;/strong&gt; Laravel, Bootstrap, MySQL.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;tangkapan-layar&#34;&gt;Tangkapan Layar&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;aplikasi-routine-and-preventive-maintenance-thumbnail.jpg&#34; alt=&#34;Tampilan CMS&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;tautan&#34;&gt;Tautan&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.agungpalumagada.com/&#34;&gt;Demo Proyek&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#!&#34;&gt;Repositori GitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Laravel Cms Construction</title>
+      <link>https://ujgsp.github.io/projects/laravel-cms-construction/</link>
+      <pubDate>Thu, 09 Jan 2025 23:10:54 +0700</pubDate>
+      <guid>https://ujgsp.github.io/projects/laravel-cms-construction/</guid>
+      <description>&lt;h3 id=&#34;cms-untuk-jasa-kontruksi&#34;&gt;CMS untuk Jasa Kontruksi&lt;/h3&gt;&#xA;&lt;p&gt;CMS ini dirancang untuk mempermudah pengelolaan portofolio, klien, dan proyek untuk bisnis konstruksi atau arsitektur.&lt;/p&gt;&#xA;&lt;h3 id=&#34;fitur-utama&#34;&gt;Fitur Utama&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Manajemen Konten:&lt;/strong&gt; Tambahkan, edit, dan hapus dengan mudah.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Responsif:&lt;/strong&gt; Desain ramah mobile untuk semua jenis perangkat.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;SEO Friendly:&lt;/strong&gt; Dilengkapi fitur SEO bawaan.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Teknologi yang Digunakan:&lt;/strong&gt; Laravel, Bootstrap, MySQL.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;tangkapan-layar&#34;&gt;Tangkapan Layar&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;cms-kontruksi-thumbnail.jpg&#34; alt=&#34;Tampilan CMS&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;tautan&#34;&gt;Tautan&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.agungpalumagada.com/&#34;&gt;Demo Proyek&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#!&#34;&gt;Repositori GitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>My New Project</title>
       <link>https://ujgsp.github.io/projects/my-new-project/</link>
